@@ -15,8 +15,7 @@ This repository has some projects about SAS language
   <a href="https://github.com/juliana-lifer">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=juliana-lifer&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-lifer&layout=compact&langs_count=7&theme=dark"/>
-     <img align="right" alt="ju-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
- </div>
+     </div>
 
    <div style="display: inline_block"><br>
   <img align="center" alt="ju-sql" height="30" width="90" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
